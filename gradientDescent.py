@@ -5,7 +5,7 @@ import numpy as np
 #with x data and y data we can find what w and b holds
 #training data
 x = np.random.randn(10,1)
-y = 9*x + np.random.rand()
+y = 19*x + np.random.rand()
 #parameters
 w = 0.0
 b = 0.0
